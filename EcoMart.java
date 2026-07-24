@@ -1,6 +1,5 @@
 import java.util.Vector;
 import java.util.HashMap;
-import Payment.Billing;
 class ProductCatalog{
 String products[]={"Organic Rice","Organic Wheat Flour","Organic Honey","Millets",
 "Cold Pressed Coconut Oil","Bamboo Toothbrush","Natural Soap","Herbal Shampoo",

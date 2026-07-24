@@ -1,4 +1,3 @@
-package Payment;
 public class Billing{
     private int points=0;
     private double gst=0;
